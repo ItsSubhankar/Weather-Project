@@ -8,9 +8,10 @@
             "name": "Launch Chrome",
             "request": "launch",
             "type": "chrome",
-            "url": " https://itssubhankar.github.io/Weather-Project/",
+            "url": "https://www.google.com/",
             "webRoot": "${workspaceFolder}"
         }
     ]
 
 }
+
